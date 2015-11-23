@@ -7,6 +7,7 @@ public class Sample
 		// TODO Auto-generated method stub
 		//second commit
 		System.out.println("First change i made");
+		System.out.println("second change i made");
 
 	}
 
